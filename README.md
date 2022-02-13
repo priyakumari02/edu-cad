@@ -38,7 +38,6 @@ Mobile view-
 We made the video and PPT altogether. The project idea was given by each and every member.
 1. Priya Kumari- developed all the section of project and fixed various issues
 2. Shivani Singh- designed the project, gathered graphics and fixed various issues
-3. Aditi Jha- designed logo, content, and fixed issues
 
 # Our inspiration behind this project-
 We decided to provide students with free and quality recouces from where they can get everything. Our inspiration is that many students don't have proper and useful resouces to kickstart their career. We provide them with oppurtunities and valid resources. 

@@ -17,7 +17,7 @@ We used VS code to develop the project
 We deployed our website on netlify so that it can easily be viewed.
 
 # To view our project live, click on the link below
-https://edu-cad.netlify.app/
+https://hackthon.netlify.app/
 
 # Tech stacks that we used
 HTML, CSS, JavaScript
